@@ -16,8 +16,8 @@ Ozeanische Kruste (7-8km mächtig)
 Konstruktive Plattengrenze (divergent): Mittelozeansicher Rücken
 
 Destruktive Plattengrenze (konvergent): Subduktionszone
-    * Mittlere Dichte der Ozeanischen Platte: 3 - 3,2g/cm³
-    * Mittlere Dichte der Pazifischen Platte: 2-2,5g/cm³
+    * Mittlere Dichte der Ozeanischen Kruste: 3 - 3,2g/cm³
+    * Mittlere Dichte der ... Kruste: 2-2,5g/cm³
 
 Konservative Plattengrenze: Transformstörung
 
@@ -41,6 +41,8 @@ In Grönland Teile der Ozeanischen Platte bis zu 4 Mrd. Jahre alt. Nordamerikani
 
 pyroklastisches Material - ausbrechende Lava, Rauch, u.a. Materialien
 duktile Verformung = 
+Orogene = ein entstehender Berg
+
 
 ## Kontinentale Riftzonen
 Zwei Platten divergieren und brechen auseinander, Wasser dringt ein und füllt den Graben > das aufsteigende Magma gelangt an die Erdoberfläche und erstarrt > es entsteht neue ozeanische Kruste (bzw. Kontinentale Kruste, wenn über den Meeresspiegel gelangt)
@@ -52,3 +54,31 @@ Sprunghöhe (Absenkung/ Erhebung) von rund 4km beim Schwarzwald und Vogesen
 ### Rotmeerstadium
 1. Stadium: Kontinentales Rift
 2. Stadium: 
+
+
+## Subduktionszonen
+Benioffzone = Zone, in der die eine (leichtere) Platte abtaucht
+Häufig entsteht eine Tiefseerinne kurz vor Benioffzone, ebenso wie der Akkretionskeil > abtauchende Platte ist nach 200 - 400 km Tiefe (1500 - 1700°C) vollständig eingeschmolzen
+
+
+Molusten
+Eurogenese
+
+
+## Terrane
+* Terran = Mirkokontinente
+* können trotzdem eine Länge von mehreren hundert Kilometern haben
+* Terran auf Ozeanischer Kruste wird in Richtung Kontinentaler Platte bewegt und stößt an > Terran wird an Kontinent akkretiert
+
+## Transformstörung
+Wo wenig neues Material entsteht, bewegen sich die Platten langsam von einander weg; wo viel neues Material entsteht, bewegen sich die Platten schneller von einander weg
+
+San Andreas Graben/ Störung: Gespreizter Terran subduziert sich unter die Nordamerikanische Platte ?!
+
+
+#### Test?
+Was ist ein Terran?
+Mikrokontinent, aktive Kontinentalränder, werden deformiert bei Kollision und Verschmelzen mit anderem Kontinent
+
+Wo?
+Hohes Ausmaß an Küste Nordamerikas
