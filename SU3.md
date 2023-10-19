@@ -24,12 +24,31 @@ Ergussgesteine = Vulkanite
 
 ### Sedimentgesteine = Sedimentite
 * Ablagerungs-/ Umlagerungsgesteine
+* klastische Sedimente = Gesteine, die aus den Trümmern anderer Gesteine aufgebaut sind
+* chemische Sedimente =
+     * Präzipitationsgesteine
+     * 3,5% Salzgehalt im Meerwasser
+* biogene Sedimente = Gesteine, die aus biologischen, organen Bestandteilen aufgebaut ist
 
 ### Metamorphe Gesteine = Metamorphite
 * Gestein aus großer Tiefe
     * Kalkstein = Marmor
     * Sandstein = Quarzit
+* regionalmetamorphe Gesteine
+* kontaktmetamorphe Gesteine
+* Impact-Gesteine
 
-leukokrate
+leukokrate (helle, 
 
 melanokrate (dunkle, basische, kieselsäurearme)
+
+## Magmatite
+Pyroklasika (Pyro: Feuer; klasika: zerschlagen)
+
+### Magmendifferentiation
+* Differenzierung der Magma nach Dichte
+* schwere Magma sinkt nach unten
+* marphische Magma, eher basisch
+* felsische Magma mit viel Kieselsäure, sehr sauer (z.B. Granitmagma)
+
+Die Magmendifferenziation sorgt für die Entstehung unterschiedlicher Mineralien und Gesteine
