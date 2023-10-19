@@ -44,6 +44,7 @@ melanokrate (dunkle, basische, kieselsäurearme)
 
 ## Magmatite
 Pyroklasika (Pyro: Feuer; klasika: zerschlagen)
+Obsidian = sehr schnell abgekühltes Gestein (wenige Stunden)
 
 ### Magmendifferentiation
 * Differenzierung der Magma nach Dichte
@@ -52,3 +53,22 @@ Pyroklasika (Pyro: Feuer; klasika: zerschlagen)
 * felsische Magma mit viel Kieselsäure, sehr sauer (z.B. Granitmagma)
 
 Die Magmendifferenziation sorgt für die Entstehung unterschiedlicher Mineralien und Gesteine
+
+## Vulkanismus
+Tephra = Asche eines Vulkanausbruchs
+
+Caldera = Plateau eines eingebrochenen Vulkans
+
+Stricklava = Lavastücke, sieht etwas aus wie eine Treppe
+
+Devels-Tower - Basalt-Säulenentstehung
+
+## Sedimentgesteine
+
+
+## Zusammenfassung
+Differentialdiagnose
+
+Obergruppe > Untergruppe > Körnigkeit (durch Abkühlungsgeschwindigkeit) > Erkennung von versch. Mineralien
+
+Gesteinsgruppen (Magmatite, ...) > wie entstanden, was ist das?
