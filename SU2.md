@@ -1,5 +1,7 @@
 Archaäkum, Broäkum = Zeit der ersten Tiere
+
 Holocaenes = Neuzeit
+
 Plastocaenes = fast Neuzeit
 
 Fixismus = Alle Kontinente befanden sich an selber Position wie bereits immer
@@ -32,6 +34,12 @@ In Gabbros können weitere Gänge sein, sind nicht maßgeblich für Oberfläche.
 In Boden einige Stellen, in denen weitere Öffnungen sind - keine homogene Fläche
 
 In Grönland Teile der Ozeanischen Platte bis zu 4 Mrd. Jahre alt. Nordamerikanische Platte nur rund 150 Mio. Jahren
+
+Kontinent-Kontinent-Kollision: Indische und Eurasische Platte, Himalaja
+
+Rot-Meer-Stadium: Entstehung eines neuen Meeres durch auseinanderdriften von Platten
+
+passive Kontinentalränder: Kontinentalränder, bei denen sich nichts tut - Ozean dazwischen, keine Kollision
 
 
 ### Heißer Fleck - Hot Spots
@@ -76,7 +84,7 @@ Wo wenig neues Material entsteht, bewegen sich die Platten langsam von einander 
 San Andreas Graben/ Störung: Gespreizter Terran subduziert sich unter die Nordamerikanische Platte ?!
 
 
-#### Test?
+## Test?
 Was ist ein Terran?
 Mikrokontinent, aktive Kontinentalränder, werden deformiert bei Kollision und Verschmelzen mit anderem Kontinent
 
