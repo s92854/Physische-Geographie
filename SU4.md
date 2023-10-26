@@ -6,6 +6,7 @@ auch schauen nach Gefüge (körnig, glatt,...), kristallin oder nicht, schnell (
 porphyrisches Gefüge = Stein einer homogenen Masse; kühlt langsamer als Granit ab, eine Magma kristalliert sich aus und der 
 mikrokristallines Gefüge: schnelle Abkühlung, Basalt
 glasiges Gefüge: sehr schnell abgekühlt
+mineralisches Gestein = lockere Ablagerungen
 
 Vulkanite - sauer und basisch
 
@@ -26,9 +27,23 @@ definitives Sediment: eine Ablagerung, die, unter den gegebenen Umweltbedingunge
 = Trümmergesteine
 Sedimente
 Sortierung; schlecht sortiert, wenn Sedimente unterschiedliche Korngrößen vorhanden sind (Schichtung); gut sortiert, wenn einheitliche Korngröße
+Konglamarat = Basaltgerölle
+Fanglomarat = 
+
 
 ### Fazies
 * (aus frnz.: Gesicht) = Merkmale eines Gesteins
 * Situation: FLuss fließt von Land ins Meer: grobkörniges Gestein fällt schnell und dicht an Land herunter > leichtes Gestein reicht weiter ins Meer rein
 * (Körnungs-) Eigenschaften entscheidend
 
+### Evaporite (Eindampfungssedimente)
+
+Meersalzgehlat: ca. 3,5%
+
+Kalisalze: KCl
+
+Steinsalz: NaCl
+
+Gips: CaSO<sub>4</sub> * 2H<sub>2</sub>O
+
+Kalk: CaCO<sub>3</sub>
