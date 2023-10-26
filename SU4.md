@@ -38,7 +38,7 @@ Fanglomarat =
 
 ### Evaporite (Eindampfungssedimente)
 
-Meersalzgehlat: ca. 3,5%
+Meersalzgehalt: ca. 3,5%
 
 Kalisalze: KCl
 
@@ -47,3 +47,41 @@ Steinsalz: NaCl
 Gips: CaSO<sub>4</sub> * 2H<sub>2</sub>O
 
 Kalk: CaCO<sub>3</sub>
+
+### Organogene Sediente
+Lebewesen sinken auf den Grund > unter Luftausschluss entsteht Torf bishin zu Anthrazit
+
+Anatexis = aufschmelzen
+
+Durch zunehmenden Druck (und Temperatur) nimmt der Kohlenstoffgehalt zu und Sauerstoff und Wasserstoff ab > Umwandlung in andere Kohlenart
+
+# Metamorphite
+* Umwandlungsgesteine
+* Gesteinsumwandlung durch hohen Druck und hohe Temperatur
+* 
+* Para-Gesteine waren mal Sedimentgesteine
+
+Metamorphose: Gesteine werden umgebaut, chemische Zusammensetzung bleibt gleich
+
+# Geologische Zeitrechnung
+Liegendes - Hangendes: kommt aus dem Bergbau
+Wenn die Bergbauleute in der Röhre lagen und Steine abgebaut haben, dann war das Material unter ihnen das Liegende und über ihnen das Hängende.
+Paläozikum = Ära der alten Tiere
+
+### Perioden
+|Ära|Periode|Zeit in Mio. Jahre|Epoche|
+|---|-----|-----|---|
+|Paläozoikum|Kambrium|550 - 495||
+||Ordovizium|495 - 443||
+||Silur|443 - 417||
+||Devon|417 - 358||
+||Karbon|358 - 295||
+||Perm|295 - 251|Zechstein, Rotliegendes|
+|Mesozoikum|Trias|251 - 200|Buntsandstein, Muschelkalk, Keuper|
+||Jura|200 - 142|Malm, Dogger, Lias|
+||Kreide|142 - 65||
+|Känozoikum|Tertiär|65 - 1,75||
+||Quartiär|1,75 - heute||
+
+# Test?
+* Wie sieht der Kreislauf der Gesteine aus?
