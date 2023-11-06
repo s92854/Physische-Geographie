@@ -1,6 +1,8 @@
 # Zusammenfassung Physische Geography
 
-## Daten zur Erde
+## Die Erde
+
+### Daten zur Erde
 |Beschreibung|Wert|
 |------------|----|
 |Oberfläche|510.000.000 km<sup>2</sup>|
@@ -37,3 +39,5 @@
 |Höchste Höhe (Mount Everest)|8848 m|
 |Tiefster Punkt (Totes Meer)|-423 m|
 |Tiefster Ozeanpunkt (Witjastief)|-11034 m|
+
+### 
