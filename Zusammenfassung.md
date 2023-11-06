@@ -40,4 +40,38 @@
 |Tiefster Punkt (Totes Meer)|-423 m|
 |Tiefster Ozeanpunkt (Witjastief)|-11034 m|
 
-### 
+### Die hypsographische Kurve
+* hypsometrisch = höhenmessend
+* Thalassokratie = Vorherrschaft der Meere
+* 2 Arten von Kurste: SiAl (Silizium und Aluminum) und SiMg (Silizium und Magnesium) = Kontinental und Ozeanische Kurste
+    * Höhen nachtragen
+
+### Der Schalenbau der Erde
+* Lithosphäre = Steinhülle;
+    * Litosphäre ist mehr als nur die Kruste
+* Asthenosphäre = LVZ (low velocity zone) [zwischen 100 und 1000km von der Erdoberfläche entfernt]
+
+### Wellen
+* Longitudinalwelle = p-Welle = Kompressionswellen
+* Transversalwelle = s-Welle = tatsächliche Wellen an der Oberfläche
+    * t-Wellen = Wellen auf der Oberfläche
+
+#### Beispiel: Sirene eines Feuerwerautos beim Vorbeifahren
+Wellengeschwindigkeit + Fahrgeschwindigkeit = Wellenlänge des Schalls
+
+### Erdbeben
+* Flachbeben: 0 - 100 km Herdtiefe
+* Mitteltiefes Beben: 100 - 300km Herdtiefe
+* Tiefbeben: 300 - 700km Herdtiefe San Andreas Graben : seitliche Bewegung
+
+#### Begriffe
+* sidirisch = auf die Sterne bezogen
+* Präzession = Kegelbewegung der Erde (eine Kegelbewegung = 2800 Jahre)
+* Zeitgleichung = Differenz zwischen wahrer und mittlerer Sonnenzeit
+* orthodrome = kürzester Weg auf einer Kugel (Ausschnitt aus einem Großkreis)
+* nexodrome = Ekliptic = Schiefe der Erdachse
+* Polartag und -nacht = Ort auf der Erde (Nord- und Südpol), an denen es 6 Monate nur Tag/Nacht ist
+* Aphel in winterlicher Zeit
+* Perihel in sommerlicher Zeit
+* bei Ekliptik von 90° wären extreme Jahreszeiten
+
