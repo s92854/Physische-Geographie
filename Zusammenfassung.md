@@ -43,7 +43,7 @@
 ### Die hypsographische Kurve
 * hypsometrisch = höhenmessend
 * Thalassokratie = Vorherrschaft der Meere
-* 2 Arten von Kurste: SiAl (Silizium und Aluminum) und SiMg (Silizium und Magnesium) = Kontinental und Ozeanische Kurste
+* 2 Arten von Kruste: SiAl (Silizium und Aluminum) und SiMg (Silizium und Magnesium) = Kontinental und Ozeanische Kurste
     * Höhen nachtragen
 
 ### Der Schalenbau der Erde
@@ -75,3 +75,62 @@ Wellengeschwindigkeit + Fahrgeschwindigkeit = Wellenlänge des Schalls
 * Perihel in sommerlicher Zeit
 * bei Ekliptik von 90° wären extreme Jahreszeiten
 
+### Plattentektonik
+
+Das Grundprinzip der Plattentektonik besteht in der fortwährenden Neubildung ozeanischer Lithosphäre.
+
+Verschiedene Arten von Plattengrenzen:
+* Konstruktive Plattengrenze (divergent), z.B. Mittelozeanischer Rücken
+* Destruktive Plattengrenze (konvergent): Subduktionszone
+   * Mittlere Dichte der Ozeanischen Kruste: 3 - 3,2g/cm³
+   * Mittlere Dichte der ... Kruste: 2-2,5g/cm³
+* Konservative Plattengrenze: Transformstörung
+
+#### Begriffe
+* Archaäkum, Broäkum = Zeit der ersten Tiere
+* Holocaenes = Neuzeit
+* Plastocaenes = fast Neuzeit
+* Fixismus = Alle Kontinente befanden sich an selber Position wie bereits immer
+* pyroklastisches Material - ausbrechende Lava, Rauch, u.a. Materialien
+* duktile Verformung = Orogene = ein entstehender Berg
+
+#### Hot Spots
+* Fleck, bei dem über lange Zeit heißes Magma an der selben Stelle aufsteigt
+* Entstehungszeit eines Huts: ca. 100 Mio. Jahre
+
+#### Kontinentale Riftzonen
+* zwei Platten divergieren und brechen auseinander > Wasser dringt ein und füllt den Graben > das aufsteigende Magma gelangt an die Erdoberfläche und erstarrt > es entsteht neue ozeanische Kruste (bzw. Kontinentale Kruste, wenn über den Meeresspiegel gelangt)
+
+(Sprunghöhe (Absenkung/ Erhebung) von rund 4km beim Schwarzwald und Vogesen)
+
+##### Rotmeerstadium
+1. Stadium: Kontinentales Rift
+2. Stadium:
+
+#### Subduktionszonen
+Benioffzone = Zone, in der die eine (leichtere) Platte abtaucht. Häufig entsteht eine Tiefseerinne kurz vor der Benioffzone, ebenso wie der Akkretionskeil (abtauchende Platte ist nach 200 - 400 km Tiefe (1500 - 1700°C) vollständig eingeschmolzen)
+
+#### Terrane
+* Terran = Mirkokontinente
+* können trotzdem eine Länge von mehreren hundert Kilometern haben
+* Terran auf Ozeanischer Kruste wird in Richtung Kontinentaler Platte bewegt und stößt an > Terran wird an Kontinent akkretiert
+
+#### Transformstörung
+Wo wenig neues Material entsteht, bewegen sich die Platten langsam von einander weg; wo viel neues Material entsteht, bewegen sich die Platten schneller von einander weg
+
+San Andreas Graben/ Störung: die pazifische Platte schiebt sich relativ zur nordamerikanischen Platte in nordwestlicher Richtung
+
+
+### Steine
+
+
+
+
+
+## Zusätzliches zu Tests
+* Was ist ein Terran?
+*Mikrokontinent
+aktive Kontinentalränder: werden bei Kollision deformiert und Verschmelzen mit anderem Kontinent
+
+Wo?
+Hohes Ausmaß an Küste Nordamerikas
