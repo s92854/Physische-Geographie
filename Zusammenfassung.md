@@ -121,9 +121,79 @@ Wo wenig neues Material entsteht, bewegen sich die Platten langsam von einander 
 San Andreas Graben/ Störung: die pazifische Platte schiebt sich relativ zur nordamerikanischen Platte in nordwestlicher Richtung
 
 
-### Steine
+## Steine
+Gesteine sind natürliche, in sich einheitliche Körper, die die Erdkruste und Teile des Erdmantels zusammensetzen. Sie können aus Mineralen, Gesteinsglas, Mineralbruchstücken, Fragmenten von Organismenskeletten, organischen Substanzn und Gesteinsbruchstücken bestehen.
 
+Minerale stellen homogene, kristalline, im Allgemeinen anorganische, natürlich vorkommende Festkörper der Lithosphäre mit bestimmer chemischer Zusammensetzung dar. Das Besondere an Minereln ist die Verknüpfung ihrer chemischen Zusammensetzung mit der Anordnung der Atmone in einerr Kristallstruktur (Kristallgitter).
 
+### Einteilung
+
+|**Helle Gesteine/Minerale**|**Dunkle Gesteine**|
+|--|--|
+|leukokrat, felsisch, saure, kieselsäurereich|melanokrat, mafisch, basisch, kieselsäurearme|
+|Quarz|Olivin|
+|Feldspäte|Pyroxen, Olivin|
+|Orthoklas, Plagioklas|Hornblende, Augit|
+|Feldspatvertreter|Amphibol, Biotit|
+|Muskovit|Granate|
+|Zeolithe|Turmalin, Magnetit|
+
+&nbsp;
+
+|Magmatische Gesteine = Eruptivgesteine = Magmatite|Sedimentgesteine = Sedimentite|Metamorphe Gesteine = Metamorphite|
+|--|--|--|
+|Tiefengesteine = Plutonite|klastische Sedimente = "Trümmergesteine"|regionalmetamorphe Gesteine|
+|Ergussgesteine = Vulkanite|chemische Sedimente|kontaktmetamorphe Gesteine|
+||biogene Sedimente|Impact-Gesteine|
+
+#### Magmatite
+|Vulkanite: Laven und Pyroklastika|Subvulkanische Gesteine, meist Gänge und kleinräumige Intrusiva|Plutonite (z.B. Gabbro, Granit)|
+|--|--|--|
+|Entstehung an Erdoberfläche|Entstehung meist relativ oberflächennah, Wurzelzonen der Vulkane|Entstehung in einigen Kilometern Tiefe innerhalb der Erdkruste|
+
+![image](https://github.com/s92854/Physische-Geographie/assets/134683810/4f1bd50f-846b-415d-8d3d-ee784c4d6b88)
+
+![image](https://github.com/s92854/Physische-Geographie/assets/134683810/3777408b-7909-490c-beaa-d3a2b1a63ca0)
+
+![image](https://github.com/s92854/Physische-Geographie/assets/134683810/2869cd08-26cd-4e30-b67e-041c5d38a507)
+
+> oben links: feinkörniger **Basalt**; oben rechts: grobkristalliner **Gabbro**; unten links: feinkörniger **Rhyolith**; unten rechts: grobkörniger **Granit**
+
+&nbsp;
+
+#### Sedimentite
+|Arten|Entstehung|
+|--|--|
+|Klastische Sedimente und Sedimentgesteine (Sand - Sandstein|Entstehung an oder naher der Erdoberfläche durch Verwitterung, Erosion, Transport, Ablagerung und Diagenese|
+|Biogene Sedimente und Sg. (Globigerinenschlamm, Kalksteine, Kohlen)||
+|Pyroklastische Sedimente (Vulkanische Aschen, Lapilli, Bomben)||
+|Chemische Sedimente (Salzgesteine, Tropfsteinkalk)||
+
+#### Metamorphite
+|Arten|Entstehung|
+|--|--|
+|Para-Gesteine, aus Sedimenten entstanden (Paragneis, Glimmerschiefer, Marmor)|Entstehung in größeren Tiefen der Erdkruste (10-20km)|
+|Ortho-Gesteine, aus Magmatiten entstanden (Orthogneis, Ortho-Amphibolit)|in Ausnahmefällen bis in den Mantelbereich|
+
+### Härteskala nach F. MOHS 1812
+
+![Härteskala](https://github.com/s92854/Physische-Geographie/assets/134683810/074198b1-6436-4aee-8fb0-4553d24278c0)
+
+&nbsp;
+
+#### Kristallsysteme
+
+![image](https://github.com/s92854/Physische-Geographie/assets/134683810/f18bdc4d-914d-428a-89cc-e9b5c73a4cf8)
+
+&nbsp;
+
+### Beispiele
+
+![image](https://github.com/s92854/Physische-Geographie/assets/134683810/5a50a563-c8cb-4700-930a-3cbd025a1d4e)
+
+> Almanin (dunkel), Spessartin (orange), Grossular (hellgrün)
+
+![image](https://github.com/s92854/Physische-Geographie/assets/134683810/d065056e-d94a-4045-bd95-73098cbd2da2)
 
 
 
