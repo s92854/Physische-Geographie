@@ -34,4 +34,34 @@ Transportmittel:
     * Geschwindigkeit größer als Wellenausbreitung
     * Wasserfälle
 
-Stromstrich: Linie mit der größten Fließgeschwindigkeit
+Stromstrich
+* Linie mit der größten Fließgeschwindigkeit
+* Wasserspiegel einige Zentimeter höher als an der Seite
+* rechts und links sind Walzen
+
+## Flussarbeit
+### Erosion
+... abtragende Wirkung am Flussboden (Tiefenerosion) an den Bettwanderungen (Seitenerosion) fund flussaufwärts (rückschreitende Erosion)
+
+### Transport
+... von Lösungsfracht, Schwebstoffen und Geröllfracht
+
+oben: Ton und Schluff
+mitte: Sand
+unten: Kiesel und noch gröbere Stoffe (Stein und Blöcke)
+
+### Ablagerung
+... des mitgeführten Materials bei nachlassender Transportkraft
+
+Ton und Schluff benötigt höhere Abtragungsgeschwindigkeit, da diese eine höhere Bindung zu anderen Körnern; Sand nicht, da es ein Einkorngefüge ist
+
+Die Määandergröße richtet sich nach dem mittleren Hochwasser -> kleinem Flüsse haben kleine Mäander, große Flüsse haben große Mäander
+
+### Entstehung von Auensedimente
+* natürliche Vegetation wird zerstört > große offene Flächen > erhöhte Erosion
+* 
+
+
+
+
+Test im Januar: Was sagt das Hjulström Diagramm (1935) aus?
