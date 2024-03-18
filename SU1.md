@@ -25,7 +25,7 @@ Oberfläche: 510 Mio. km²
 * gesüdet
 
 ## Sonnenstand
-* Äuquinoktium (Tag-Nacht gleiche)
+* Aquinotium (Tag-Nacht gleich lang)
 * wahre Sonnenzeit: 12 Uhr
 * mittlere Sonnenzeit: 
 
